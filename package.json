@@ -1,0 +1,8 @@
+{
+	"name": "beangle-commons",
+	"description": "Beangle Commons D Library",
+	"copyright": "Copyright © 2014, Beangle",
+	"license": "GPL-3.0",
+	"authors": ["chaostone"],
+	"targetType": "sourceLibrary"
+}
